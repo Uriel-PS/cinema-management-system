@@ -23,10 +23,9 @@ Built with **Java (Swing + FlatLaf)**, **JDBC**, and **PostgreSQL**, following a
 | Tool | Version | Notes |
 |------|---------|-------|
 | **Java JDK** | 17 or higher | [Eclipse Adoptium](https://adoptium.net/) recommended |
-| **Apache Maven** | 3.8+ | [Download](https://maven.apache.org/download.cgi) |
 | **PostgreSQL** | 12 or higher | [Download](https://www.postgresql.org/download/) |
 | **pgAdmin 4** | any | Included with PostgreSQL installer |
-| **IDE (optional)** | NetBeans / IntelliJ / VS Code | For editing and running the project |
+| **NetBeans** | 17+ | [Download](https://netbeans.apache.org/) — comes with Maven built-in |
 
 ---
 
