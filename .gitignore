@@ -1,0 +1,23 @@
+# Compiled class files
+target/
+
+# IDE files
+nbproject/private/
+nbbuild/
+nbdist/
+nb-configuration.xml
+.nb-gradle/
+*.iml
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+*.log
+
